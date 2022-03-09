@@ -1,0 +1,13 @@
+.navbar {
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+.navbar a {
+    margin: 10px;
+    color: white;
+}
+
+.navbar a.active {
+    color: blueviolet;
+}
